@@ -5,6 +5,4 @@
 
 
 
-<p align="left">
-</p>
 
